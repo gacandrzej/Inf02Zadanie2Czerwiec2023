@@ -2,6 +2,10 @@
 
 ## Konfiguracja mikrotika
 
+1. Najpierw skonfiguruj switch.
+
+1. **Ważne!!!** Zaloguj się do mikrotika przez mac.
+
 1. Reset routera. System -\> Reset Configuration
 
    ![image1](media/image1.png)
