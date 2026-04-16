@@ -213,7 +213,7 @@
     ![image27](media/image27.png)
 
     ```bash
-    /ip dhcp-server /ping print
+    /ip dhcp-server print
     ```
 
     ![image28](media/image28.png)
